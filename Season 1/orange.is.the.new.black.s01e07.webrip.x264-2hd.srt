@@ -1,14 +1,8 @@
 1
 00:00:07,786 --> 00:00:36,122
-<font color="#6fad74">Tr<font color="#f2f2f2">anslation <font color="#6fad74"> an<font color="#f2f2f2">d <font color="#6fad74"> mo<font color="#f2f2f2">dification
-<font color="#f2f2f2">" MR. <font color="#6fad74">KA<font color="#f2f2f2">MO<font color="#6fad74">UN<font color="#f2f2f2">AH "
-<font color="#6fad74">AL<font color="#f2f2f2">L <font color="#6fad74">RI<font color="#f2f2f2">GHTS <font color="#6fad74">RE<font color="#f2f2f2">SERVED 2013
 
 2
 00:00:56,000 --> 00:01:19,555
-<font color="#ffa500"> orange <font color="#f2f2f2">is the new <font color="#4c4c4c">black
-<font color="#f2f2f2">  ألموسم ألأول   ألحلقة ألسابعة
-<font color="#b30000"> دموي<font color="#674200"> كعك
 
 3
 00:01:22,692 --> 00:01:23,777
@@ -3613,10 +3607,4 @@ $مندوبيني بلغوا ألحد ألأقصى حتى 300
 836
 00:55:03,982 --> 00:55:05,108
 حسناً
-
-837
-00:55:30,800 --> 00:55:41,720
-<font color="#6fad74">Tr<font color="#f2f2f2">anslation <font color="#6fad74"> an<font color="#f2f2f2">d <font color="#6fad74"> mo<font color="#f2f2f2">dification
-<font color="#f2f2f2">" MR. <font color="#6fad74">KA<font color="#f2f2f2">MO<font color="#6fad74">UN<font color="#f2f2f2">AH "
-<font color="#f2f2f2"> www.kamounahso@gamil.com
 

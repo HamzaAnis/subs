@@ -1,7 +1,5 @@
 1
 00:00:09,400 --> 00:01:10,800
-<font color="#ffff00" face="Freestyle Script">Translated By:
-Ahmed Zero -> (Ahmed Ashraf)</font>
 
 2
 00:01:18,400 --> 00:01:21,000
@@ -2734,9 +2732,3 @@ Ahmed Zero -> (Ahmed Ashraf)</font>
 666
 00:48:57,700 --> 00:48:59,100
 .آسفة
-
-667
-00:50:33,200 --> 00:50:43,500
-<font color="#ffff00" face="Freestyle Script">Translated By:
-Ahmed Zero -> (Ahmed Ashraf)</font>
-

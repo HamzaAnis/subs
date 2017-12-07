@@ -1,9 +1,5 @@
 1
 00:01:06,199 --> 00:01:16,751
-<font color="#ec14bd">تمت الترجمة بواسطة</font>
-<font color="#ec14bd">BrokenMan
-Edited By:AndY &Love is Blind
-</font>
 
 2
 00:01:23,267 --> 00:01:26,980
@@ -3615,11 +3611,4 @@ Edited By:AndY &Love is Blind
 885
 00:52:00,259 --> 00:52:02,929
 سرعتين فقط مسموح بهم ..هما المشى او الزحف
-
-886
-00:53:04,950 --> 00:53:15,379
-<font color="#ec14bd">تمت الترجمة بواسطة</font>
-<font color="#ec14bd">BrokenMan
-Edited By:AndY &Love is Blind
-</font>
 
