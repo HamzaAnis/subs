@@ -1,8 +1,5 @@
 ﻿1
 00:00:01,300 --> 00:00:05,200
-<font color="#0080c0"> MoreHD </font>
-<font color="#ffff00"> تجدونني في : </font>
-<font color="#ffff00"> twitter.com/MoreHDMovies </font>
 
 2
 00:00:05,261 --> 00:00:07,323
@@ -10,14 +7,9 @@
 
 3
 00:00:07,347 --> 00:00:09,347
-<font color="#0080c0"> MoreHD </font>
-<font color="#ffff00"> تجدونني في : </font>
-<font color="#ffff00"> twitter.com/MoreHDMovies </font>
 
 4
 00:00:09,371 --> 00:01:01,371
-<font color="#ffff00">تعديل التوقيت </font>
-<font color="#0080c0">OzOz</font>
 
 5
 00:01:13,998 --> 00:01:17,584
@@ -3473,15 +3465,4 @@
 735
 00:55:20,050 --> 00:55:22,260
 نحن مضطرتان لقتلها
-
-736
-00:55:23,284 --> 00:55:25,284
-<font color="#0080c0"> MoreHD </font>
-<font color="#ffff00"> تجدونني في : </font>
-<font color="#ffff00"> twitter.com/MoreHDMovies </font>
-
-737
-00:55:25,308 --> 00:55:47,308
-<font color="#ffff00">تعديل التوقيت </font>
-<font color="#0080c0">OzOz</font>
 
